@@ -1,0 +1,106 @@
+<Query> <TF-IDF score> <BM25 score> <rank of BM25 sentence model>
+ Who is the author of the book, "The Iron Lady: A Biography of Margaret Thatcher"? 0.039 0.08 1
+ What was the monetary value of the Nobel Peace Prize in 1989? 0.002 0.04 None
+ What does the Peugeot company manufacture? 0.467 0.72 5
+ How much did Mercury spend on advertising in 1993? 0.0 0.0 None
+ What is the name of the managing director of Apricot Computer? 0.005 0.06 1
+ Why did David Koresh ask the FBI for a word processor? 0.001 0.02 None
+ What debts did Qintex group leave? 0.013 0.08 None
+ What is the name of the rare neurological disease with symptoms such as: involuntary movements (tics), swearing, and incoherent vocalizations (grunts, shouts, etc.)? 0.003 0.02 None
+ How far is Yaroslavl from Moscow? 0.05 0.04 None
+ Name the designer of the shoe that spawned millions of plastic imitations, known as "jellies". 0.001 0.02 3
+ Who was President Cleveland's wife? 0.001 0.02 3
+ How much did Manchester United spend on players in 1993? 0.002 0.0 None
+ How much could you rent a Volkswagen bug for in 1966? 0.148 0.22 None
+ What country is the biggest producer of tungsten? 0.101 0.12 4
+ When was London's Docklands Light Railway constructed? 0.157 0.18 27
+ What two US biochemists won the Nobel Prize in medicine in 1992? 0.001 0.02 1
+ How long did the Charles Manson murder trial last? 0.328 0.22 19
+ Who was the first Taiwanese President? 0.026 0.14 3
+ Who was the leader of the Branch Davidian Cult confronted by the FBI in Waco, Texas in 1993? 0.01 0.2 6
+ Where is Inoco based? 0.003 0.02 None
+ Who was the first American in space? 0.004 0.0 None
+ When did the Jurassic Period end? 0.0 0.0 None
+ When did Spain and Korea start ambassadorial relations? 0.041 0.08 None
+ When did Nixon visit China? 0.255 0.54 9
+ Who was the lead actress in the movie "Sleepless in Seattle"? 0.014 0.1 6
+ What is the name of the "female" counterpart to El Nino, which results in cooling temperatures and very dry weather? 0.001 0.02 2
+ Where did the 6th annual meeting of Indonesia-Malaysia forest experts take place? 0.0 0.0 None
+ Who may be best known for breaking the color line in baseball? 0.023 0.18 7
+ What is the brightest star visible from Earth? 0.002 0.04 6
+ What are the Valdez Principles? 0.003 0.04 2
+ Where was Ulysses S. Grant born? 0.014 0.08 11
+ Who received the Will Rogers Award in 1989? 0.004 0.02 50
+ What is the largest city in Germany? 0.036 0.16 2
+ Where is the actress, Marion Davies, buried? 0.003 0.06 None
+ What is the name of the highest mountain in Africa? 0.003 0.06 7
+ In 1990, what day of the week did Christmas fall on? 0.167 0.22 9
+ What was the name of the US helicopter pilot shot down over North Korea? 0.058 0.14 5
+ Where was George Washington born? 0.026 0.1 1
+ Who was chosen to be the first black chairman of the military Joint Chiefs of Staff? 0.038 0.48 1
+ Who won the Nobel Peace Prize in 1991? 0.011 0.12 2
+ What is the legal blood alcohol limit for the state of California? 0.033 0.28 None
+ What was the target rate for M3 growth in 1992? 0.038 0.56 None
+ What costume designer decided that Michael Jackson should only wear one glove? 0.002 0.04 1
+ Who is the director of the international group called the Human Genome Organization (HUGO) that is trying to coordinate gene-mapping research worldwide? 0.001 0.02 2
+ When did Lucelly Garcia, a former ambassador of Columbia to Honduras, die? 0.013 0.04 None
+ Who is the mayor of Marbella? 0.003 0.06 1
+ What company is the largest Japanese ship builder? 0.005 0.04 1
+ Where is the massive North Korean nuclear complex located? 0.022 0.28 3
+ Who fired Maria Ybarra from her position in San Diego council? 0.007 0.06 7
+ When was Dubai's first concrete house built? 0.008 0.06 1
+ Who is the president of Stanford University? 0.037 0.28 5
+ Who invented the road traffic cone? 0.009 0.02 1
+ Who was the first doctor to successfully transplant a liver? 0.004 0.08 15
+ When did Nixon die? 0.001 0.0 None
+ Where is Microsoft's corporate headquarters located? 0.109 0.1 1
+ How many calories are there in a Big Mac? 0.0 0.0 None
+ What is the acronym for the rating system for air conditioner efficiency? 0.021 0.12 36
+ Name a film that has won the Golden Bear in the Berlin Film Festival? 0.01 0.2 13
+ Who was President of Costa Rica in 1994? 0.011 0.18 7
+ What is the fare cost for the round trip between New York and London on Concorde? 0.005 0.06 None
+ What brand of white rum is still made in Cuba? 0.001 0.02 5
+ What is the name of the chronic neurological autoimmune disease which attacks the protein sheath that surrounds nerve cells causing a gradual loss of movement in the body? 0.065 0.18 8
+ What nuclear-powered Russian submarine sank in the Norwegian Sea on April 7, 1989? 0.0 0.0 None
+ Who is the voice of Miss Piggy? 0.001 0.02 1
+ Name a country that is developing a magnetic levitation railway system? 0.199 0.28 1
+ Name the first private citizen to fly in space. 0.001 0.02 1
+ What is the longest river in the United States? 0.007 0.06 1
+ What does El Nino mean in spanish? 0.002 0.04 6
+ Who came up with the name, El Nino?  0.011 0.06 None
+ How many lives were lost in the China Airlines' crash in Nagoya, Japan? 0.007 0.0 None
+ In what year did Joe DiMaggio compile his 56-game hitting streak? 0.009 0.04 37
+ When did the original Howdy Doody show go off the air? 0.049 0.06 5
+ Where is the Taj Mahal? 0.055 0.28 6
+ Who leads the star ship Enterprise in Star Trek? 0.014 0.12 31
+ What cancer is commonly associated with AIDS? 0.004 0.08 1
+ In which year was New Zealand excluded from the ANZUS alliance? 0.18 0.32 None
+ Who played the part of the Godfather in the movie, "The Godfather"?  0.006 0.02 None
+ Which large U.S. city had the highest murder rate for 1988? 0.139 0.26 5
+ What did Shostakovich write for Rostropovich? 0.002 0.04 11
+ What is the name of the promising anticancer compound derived from the pacific yew tree? 0.002 0.04 8
+ How many inhabitants live in the town of Ushuaia? 0.019 0.06 None
+ How many consecutive baseball games did Lou Gehrig play? 0.005 0.08 2
+ What is the tallest building in Japan? 0.003 0.04 3
+ Which country is Australia's largest export market? 0.187 0.28 5
+ Which former Ku Klux Klan member won an elected office in the U.S.? 0.036 0.5 1
+ Who won two gold medals in skiing in the Olympic Games in Calgary? 0.002 0.04 11
+ Who followed Willy Brandt as chancellor of the Federal Republic of Germany? 0.006 0.1 1
+ What is Grenada's main commodity export? 0.004 0.06 1
+ At what age did Rossini stop writing opera? 0.001 0.02 5
+ Who is the founder of Scientology? 0.019 0.28 2
+ Which city in China has the largest number of foreign financial companies? 0.013 0.1 None
+ Who released the Internet worm in the late 1980s? 0.011 0.04 35
+ Who first circumnavigated the globe? 0.002 0.04 26
+ Who wrote the song, "Stardust"? 0.001 0.02 1
+ What country is the worlds leading supplier of cannabis? 0.004 0.02 5
+ What time of day did Emperor Hirohito die? 0.001 0.02 None
+ How large is the Arctic refuge to preserve unique wildlife and wilderness value on Alaska's north coast? 0.0 0.0 None
+ Where is the highest point in Japan? 0.0 0.0 None
+ What is the term for the sum of all genetic material in a given organism? 0.012 0.2 1
+ What is considered the costliest disaster the insurance industry has ever faced? 0.011 0.14 4
+
+<Mean value over all queries>
+Mean precision of TF-IDF is  0.03490999999999997
+Mean precision of BM25 is  0.11119999999999988
+MRR of BM25 on sentence is 0.31023732262306114
